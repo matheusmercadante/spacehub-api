@@ -17,6 +17,8 @@
     <img alt="SpaceHub" title="#delicinha" src="https://raw.githubusercontent.com/matheusmercadante/space-hub/main/.github/spacehub.svg" width="250px" />
 </h1>
 
+<p align="center"><i>Coloque o dark mode para melhor experiência :)</i></p>
+
 <p align="center">
   <a href="#rocket-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#collision-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
